@@ -1,2 +1,5 @@
 Flask==0.10.1
 whitenoise==1.0.6
+Jinja2==2.6
+Werkzeug==0.8.3
+gunicorn==0.17.2
